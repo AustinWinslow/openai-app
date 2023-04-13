@@ -1,0 +1,9 @@
+{
+    "UserAPI" : {
+        "ORG_ID" : "YOUR_ORG_ID_HERE",
+        "API_KEY" : "YOUR_API_KEY_HERE"
+    },
+    "Options" : {
+        "output_file_path" : "DIRECTORY_FOR_TRANSCRIPT_OUTPUT"
+    }
+}
