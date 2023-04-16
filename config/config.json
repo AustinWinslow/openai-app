@@ -1,9 +1,11 @@
 {
     "UserAPI" : {
-        "ORG_ID" : "YOUR_ORG_ID_HERE",
-        "API_KEY" : "YOUR_API_KEY_HERE"
+        "ORG_ID" : "org_id",
+        "API_KEY" : "api_key"
     },
     "Options" : {
-        "output_file_path" : "DIRECTORY_FOR_TRANSCRIPT_OUTPUT"
+        "output_file_path" : "save_path",
+        "chat_model" : "gpt-3.5-turbo",
+        "save_transcript" : "True"
     }
 }
